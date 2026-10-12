@@ -1,0 +1,5 @@
+C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/CMakeFiles/Ayurheal.dir
+C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/CMakeFiles/edit_cache.dir
+C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/CMakeFiles/Ayurheal_autogen_timestamp_deps.dir
+C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/CMakeFiles/Ayurheal_autogen.dir

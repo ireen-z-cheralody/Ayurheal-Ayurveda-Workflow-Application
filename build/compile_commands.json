@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Ayurheal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Ayurheal.dir\\Ayurheal_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\Ireen\\Desktop\\Ayurheal-Ayurveda-Workflow-Application\\build\\Ayurheal_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build/Ayurheal_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Ayurheal.dir/Ayurheal_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Ayurheal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Ayurheal.dir\\main.cpp.obj -c C:\\Users\\Ireen\\Desktop\\Ayurheal-Ayurveda-Workflow-Application\\main.cpp",
+  "file": "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/main.cpp",
+  "output": "CMakeFiles/Ayurheal.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,8 @@
+// tells VS code how to configure the project
+
+// tells CMake where to find Qt 6 and its Widgets library
+{
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "C:/Qt/6.12.0/mingw_64"
+    }
+}

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ayurheal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ayurheal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ayurheal-Debug-3b8f684a8eb102674fe7.json",
+					"name" : "Ayurheal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ayurheal_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ayurheal_autogen-Debug-89084e8eb48d9d8a3668.json",
+					"name" : "Ayurheal_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ayurheal_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ayurheal_autogen_timestamp_deps-Debug-1b085cce0571a819ad31.json",
+					"name" : "Ayurheal_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application/build",
+		"source" : "C:/Users/Ireen/Desktop/Ayurheal-Ayurveda-Workflow-Application"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

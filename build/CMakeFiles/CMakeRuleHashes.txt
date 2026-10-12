@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2ecaf9c198dd869888389563251f77d6 Ayurheal_autogen/timestamp
+f93f19cefca661e4b3b831bece7b0829 CMakeFiles/Ayurheal_autogen
